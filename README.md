@@ -1,7 +1,7 @@
 # Incremental-Eigen-Decomposition
  This is a MATLAB program for the two proposed algorithms in our paper:
 
- Q. Deng, Y. Zhang, M. Li, S. Zhang, Z. Ding, ``Efficient Eigen-Decomposition for Low-Rank Symmetric Matrices in Graph Signal Processing: An Incremental Approach,'' *TechRxiv,* Mar., 2024. [Online.] Avaliable: https://www.techrxiv.org/doi/full/10.36227/techrxiv.171043313.34510864
+ Q. Deng, Y. Zhang, M. Li, S. Zhang and Z. Ding, "Efficient Eigen-Decomposition for Low-Rank Symmetric Matrices in Graph Signal Processing: An Incremental Approach," *IEEE Transactions on Signal Processing,* doi: 10.1109/TSP.2024.3438676.
 
 # Cite
 Please cite our paper if you use this code in your own work:
