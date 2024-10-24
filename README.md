@@ -6,13 +6,14 @@
 # Cite
 Please cite our paper if you use this code in your own work:
 ```
-@article{Deng_2024,
-title={Efficient Eigen-Decomposition for Low-Rank Symmetric Matrices in Graph Signal Processing: An Incremental Approach},
-url={http://dx.doi.org/10.36227/techrxiv.171043313.34510864/v1},
-DOI={10.36227/techrxiv.171043313.34510864/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Deng, Qinwen and Zhang, Yangwen and Li, Mo and Zhang, Songyang and Ding, Zhi},
-year={2024},
-month=mar }
-
+@ARTICLE{10624594,
+  author={Deng, Qinwen and Zhang, Yangwen and Li, Mo and Zhang, Songyang and Ding, Zhi},
+  journal={IEEE Transactions on Signal Processing}, 
+  title={Efficient Eigen-Decomposition for Low-Rank Symmetric Matrices in Graph Signal Processing: An Incremental Approach}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Signal processing algorithms;Symmetric matrices;Approximation algorithms;Spectral analysis;Filters;Eigenvalues and eigenfunctions;Clustering algorithms;eigen-decomposition;eigen-updating;graph signal processing;graph spectral analysis},
+  doi={10.1109/TSP.2024.3438676}}
 ```
